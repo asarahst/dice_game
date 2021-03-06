@@ -9,7 +9,7 @@ Tecnologia ultilizada : Javascript
 
 ## Demonstração:
 
-Você pode conferir o resultado aqui:[demonstração]()
+Você pode conferir o resultado aqui:[demonstração](dice-game16.netlify.app)
 
 ![image](https://user-images.githubusercontent.com/63968296/110223405-3fd47280-7eb5-11eb-8674-2a277216e4ef.png)
 
