@@ -2,6 +2,7 @@
   width: 70%;
   margin: auto;
   text-align: center;
+  
 }
 
 .dice {
@@ -31,6 +32,24 @@ p {
 img {
   width: 80%;
 }
+button{
+  display:block;
+  margin: 20px auto;
+  border: 0;
+  width: 190px;
+  height: 40px;
+  cursor: pointer;
+  background-color: #232931;
+  color: white;
+  font-family: sans-serif;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  transition: .4s;
+}
+button:hover{
+  font-size: 1.4rem;
+}
+
 
 footer {
   margin-top: 5%;
