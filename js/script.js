@@ -4,8 +4,8 @@ const h1 = document.querySelector('h1');
 
 function randomDice(){
 
-var randomNumber1 = (Math.random() * 5 + 1).toFixed();
-var randomNumber2 = (Math.random() * 5 + 1).toFixed();
+let randomNumber1 = (Math.random() * 5 + 1).toFixed();
+let randomNumber2 = (Math.random() * 5 + 1).toFixed();
 
 
 img1.setAttribute("src",`./images/dice${randomNumber1}.png`);
